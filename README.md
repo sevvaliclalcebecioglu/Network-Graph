@@ -23,7 +23,7 @@ Tags are represented as nodes, and their co-occurrence relationships are modeled
 
 Below is the final network graph after cleaning outliers and optimizing layout parameters:
 
-![Stack Overflow Network](stackoverflow_network_clean.png)
+![Stack Overflow Network](notebooks/stackoverflow_network_clean.png)
 
 ## 🛠 Technologies Used
 
